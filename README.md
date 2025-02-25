@@ -15,7 +15,7 @@ To get started, clone this repository to your local machine using the following 
 
 ## To run the container:
 
-`docker run --name cont1 -dit -p 80:5000 flask_app
+`docker run --name cont1 -dit -p 80:5000 flask_app`
 
 ## To log into the container:
 
