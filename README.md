@@ -23,8 +23,8 @@ To get started, clone this repository to your local machine using the following 
 
 ## To stop and remove the container:
 
-`docker stop cont1
-docker rm cont1`
+`docker stop cont1`
+`docker rm cont1`
 
 ## To remove the image:
 `docker rmi flask_app`
