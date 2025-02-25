@@ -3,8 +3,6 @@ A simple Flask web application containerized using Docker. This project demonstr
 
 ## To build the Docker image:
 
-```bash
-docker build -t flask_app .
+`docker build -t flask_app .`
 
-## To run the container:
-docker images
+
