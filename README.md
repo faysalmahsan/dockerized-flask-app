@@ -29,7 +29,7 @@ docker rm cont1`
 ## To remove the image:
 `docker rmi flask_app`
 
-Now, you can access the Flask app by opening http://<your-server-ip> in your browser.
+Now, you can access the Flask app by opening http://\<your-server-ip\> in your browser.
 
 `
 
